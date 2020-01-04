@@ -1,10 +1,10 @@
 # Objectpool - unity
 
 ## DEMO
-### objectpooling!![lyFFxpZL1X](https://user-images.githubusercontent.com/24996693/71509785-e4315100-28cf-11ea-89ec-b5a56ae7775d.gif)
+### objectpooling![lyFFxpZL1X](https://user-images.githubusercontent.com/24996693/71509785-e4315100-28cf-11ea-89ec-b5a56ae7775d.gif)
 
 
-### non_objectpolling!![PX5gSu5Q3X](https://user-images.githubusercontent.com/24996693/71509823-032fe300-28d0-11ea-9066-659603eccf73.gif)
+### non_objectpolling![PX5gSu5Q3X](https://user-images.githubusercontent.com/24996693/71509823-032fe300-28d0-11ea-9066-659603eccf73.gif)
 
 
 
